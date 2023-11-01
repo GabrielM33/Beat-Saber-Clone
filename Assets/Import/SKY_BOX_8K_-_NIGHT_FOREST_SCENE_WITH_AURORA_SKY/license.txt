@@ -1,0 +1,11 @@
+Model Information:
+* title:	SKY BOX 8K - NIGHT FOREST SCENE WITH AURORA SKY
+* source:	https://sketchfab.com/3d-models/sky-box-8k-night-forest-scene-with-aurora-sky-a626c2f3eda14177b07f9c345a17df60
+* author:	Architecture_Interior (https://sketchfab.com/architecture_interior)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SKY BOX 8K - NIGHT FOREST SCENE WITH AURORA SKY" (https://sketchfab.com/3d-models/sky-box-8k-night-forest-scene-with-aurora-sky-a626c2f3eda14177b07f9c345a17df60) by Architecture_Interior (https://sketchfab.com/architecture_interior) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
